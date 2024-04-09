@@ -3,7 +3,6 @@ package inheritance;
 public class PrintSample {
 
 	public static void main(String[] args) {
-		System.out.println("Just a sample project");
+		System.out.println("Just a sample printing project");
 	}
-
 }
